@@ -7,6 +7,7 @@ public class Hello2 {
 	System.out.println("찐막 테스트!!!");
 	System.out.println("ddd");
 	System.out.println("dddd");
+	System.out.println("ei");
 		}
 
 }
